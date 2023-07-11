@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><span style="color: #D8DB58;">UAS Pemrograman Mobile</span></h1>
+  <h1><span style="color: blue;">UAS Pemrograman Mobile</span></h1>
   <br>
 </div>
 
