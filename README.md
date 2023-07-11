@@ -39,6 +39,36 @@
   <br>
 </div>
 
+<div align="center">
+  <br>
+  <h1>Controllers</h1>
+  <img src="controllers.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
+  <h1>Repository</h1>
+  <img src="repository.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
+  <h1>Config</h1>
+  <img src="config.png" alt="Image">
+</div>
+
+<div align="center>
+  <br>
+  <h1>PostMan</h1>
+  <br>
+</div>
+
+<div align="center">
+  <br>
+  <h1>Repository</h1>
+  <img src="repository.png" alt="Image">
+</div>
+
 
 
 
