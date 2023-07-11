@@ -41,6 +41,12 @@
 
 <div align="center">
   <br>
+  <h1>Model/Entities</h1>
+  <img src="model.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
   <h1>Controllers</h1>
   <img src="controllers.png" alt="Image">
 </div>
@@ -57,18 +63,41 @@
   <img src="config.png" alt="Image">
 </div>
 
-<div align="center>
+
+<div align="center">
   <br>
   <h1>PostMan</h1>
-  <br>
 </div>
 
 <div align="center">
   <br>
-  <h1>Repository</h1>
-  <img src="repository.png" alt="Image">
+  <h1>Get ALL</h1>
+  <img src="get all.png" alt="Image">
 </div>
 
+<div align="center">
+  <br>
+  <h1>Get By Id</h1>
+  <img src="get By Id.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
+  <h1>Post</h1>
+  <img src="post.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
+  <h1>Put</h1>
+  <img src="put.png" alt="Image">
+</div>
+
+<div align="center">
+  <br>
+  <h1>Delete</h1>
+  <img src="delete.png" alt="Image">
+</div>
 
 
 
