@@ -3,6 +3,12 @@
   <br>
 </div>
 
+<div align="center">
+  <h1><span style="color: #FFA500;">Your Message</span></h1>
+  <p><span style="color: rgb(100, 50, 200);">Some description or additional text.</span></p>
+</div>
+
+
 <div align="left">
   <h1>Nama : Imam Sodikin</h1>
   <h1>NIM  : 312010499</h1>
