@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-  <h1><span style="color: #FFA500;">Your Message</span></h1>
-  <p><span style="color: rgb(100, 50, 200);">Some description or additional text.</span></p>
+  <h1><font color="orange">Your Message</font></h1>
+  <p><font color="purple">Some description or additional text.</font></p>
 </div>
+
 
 
 <div align="left">
