@@ -3,6 +3,12 @@
   <br>
 </div>
 
+<div align="left">
+  <h1>Nama : Imam Sodikin</h1>
+  <h1>NIM  : 312010499</h1>
+  <h1>Kelas: TI.20.D2</h1>
+</div>
+
 <div align="center">
   <br>
   <h1>Result Menu</h1>
