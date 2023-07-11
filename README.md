@@ -1,6 +1,6 @@
 <div align="center">
   <h1>UAS Pemrograman Mobile</h1>
-  <p>Phone API</p> 
+  <br>
 </div>
 
 <div align="center">
