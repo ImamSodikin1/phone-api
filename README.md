@@ -3,10 +3,6 @@
   <br>
 </div>
 
-<div align="center">
-  <h1><font color="orange">Your Message</font></h1>
-  <p><font color="purple">Some description or additional text.</font></p>
-</div>
 
 
 
